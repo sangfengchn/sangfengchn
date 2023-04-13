@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Note: The author of the avatar is [@MoghaddamKarimi](https://twitter.com/MoghaddamKarimi).
+
 <!--
 **sangfengchn/sangfengchn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
