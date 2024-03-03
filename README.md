@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats-4948cwjwb-sangfengchn.vercel.app/api?username=sangfengchn&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats-4948cwjwb-sangfengchn.vercel.app/top-langs/?username=sangfengchn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-4948cwjwb-sangfengchn.vercel.app/api/top-langs/?username=sangfengchn&layout=compact&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
